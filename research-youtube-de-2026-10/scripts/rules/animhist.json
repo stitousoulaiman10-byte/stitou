@@ -1,0 +1,40 @@
+{
+ "AH1": {
+  "core": "(geschichte|jahre|dynastie|kaiserreich|zivilisation).*china|china.*(geschichte|jahre|dynastie|riesenreich|zivilisation)|chinesische geschichte|geschichte chinas",
+  "exclude": "rot wurde|drachenflotte|mao|mythologie|trailer",
+  "direct_reason": "Complete history of China in one video",
+  "adjacent_reason": "Single eras/people (Mao, Ming fleet), mythology",
+  "note": "MrWissen2go Geschichte 1.29M owns it; smaller full-history videos 3k-97k."
+ },
+ "AH2": {
+  "core": "geschichte (von |der )?deutschland|deutsche geschichte|geschichte deutschlands|deutschland.*(anfang bis heute|gesamte)",
+  "exclude": "vormärz|flagge|adel|teilung",
+  "direct_reason": "Complete history of Germany",
+  "adjacent_reason": "Single periods (Vormärz, HRE, division)",
+  "note": "German home topic: Geo-Geschichte 1.56M (Dec 2025), Ruhe der Zeit 733k, Muhu Mees 566k, MrWissen2go."
+ },
+ "AH3": {
+  "core": "(brutalst|blutigst|tödlichst|verlustreichst|grausamst|schlimmst|längsten).*(krieg)|krieg.*(brutalst|blutigst|tödlichst)",
+  "exclude": "sudan|unserer zeit|weltkrieg|bergkarabach|schlacht",
+  "direct_reason": "Ranking of the most brutal wars in history",
+  "adjacent_reason": "Single wars/battles, current conflicts",
+  "note": "History Check 46k ('Die 6 längsten Kriege'); several small 2026 ranking videos incl. exact-title copies (GESCHICHTLICH, History Unfolded).",
+  "force_adjacent": [
+   "vaItDAOAWrc"
+  ]
+ },
+ "AH4": {
+  "core": "mittelalter",
+  "exclude": "kinder|check|lehenswesen|feudalismus|dorf|stadt im|alltag|leben im|deutsche mittelalter|einschlaf|heiliges römisches",
+  "direct_reason": "Complete overview of medieval Europe",
+  "adjacent_reason": "Daily life, feudalism, kids/sleep formats",
+  "note": "Saturated by Terra X (2.7M), simpleclub, MrWissen2go, Andere Geschichten (3.2M)."
+ },
+ "AH5": {
+  "core": "geschichte afghanistans|geschichte afghanistan|afghanistan.*(geschichte|erobern|verwundete land|zerklüftetes)|(geschichte|erobern).*afghanistan|wahre geschichte afghan",
+  "exclude": "taliban-|kabul erobert|abschieben|ein jahr|faeser|frauenrechte|einsatz|abzug|paradies|wunderschön|was ist los|dschinns|sowjetische",
+  "direct_reason": "History of Afghanistan / why it is so hard to conquer",
+  "adjacent_reason": "2021 news coverage, Bundeswehr mission, travel, Soviet war",
+  "note": "MrWissen2go Geschichte 882k, Clever Camel 139k ('Warum niemand Afghanistan erobern kann'), ARTE 184k (Sep 2026), Archonox 43k."
+ }
+}

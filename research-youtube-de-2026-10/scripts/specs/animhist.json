@@ -1,0 +1,84 @@
+[
+ {
+  "topic_id": "AH1",
+  "video_id": "wuhnBi8jNl0",
+  "en_title": "4000 Years of Chinese History in 25 Minutes",
+  "de_title": "4000 Jahre chinesische Geschichte in 25 Minuten",
+  "queries": [
+   "4000 Jahre chinesische Geschichte in 25 Minuten",
+   "Die gesamte Geschichte Chinas erklärt",
+   "Geschichte Chinas animiert",
+   "Geschichte Chinas Dynastien",
+   "chinesische Geschichte Doku"
+  ],
+  "keywords": [
+   "china",
+   "chines"
+  ]
+ },
+ {
+  "topic_id": "AH2",
+  "video_id": "csonTUj_cv0",
+  "en_title": "The ENTIRE History of Germany in 32 Minutes",
+  "de_title": "Die GESAMTE Geschichte Deutschlands in 32 Minuten",
+  "queries": [
+   "Die GESAMTE Geschichte Deutschlands in 32 Minuten",
+   "Deutsche Geschichte einfach erklärt",
+   "Geschichte Deutschlands animiert",
+   "deutsche Geschichte Überblick",
+   "Geschichte Deutschlands Doku"
+  ],
+  "keywords": [
+   "deutschland",
+   "deutsche"
+  ]
+ },
+ {
+  "topic_id": "AH3",
+  "video_id": "Lb4Qq0ZZL8A",
+  "en_title": "Most Brutal Wars in Human History",
+  "de_title": "Die brutalsten Kriege der Menschheitsgeschichte",
+  "queries": [
+   "Die brutalsten Kriege der Menschheitsgeschichte",
+   "Die blutigsten Kriege aller Zeiten",
+   "Die tödlichsten Kriege der Geschichte",
+   "blutigste Kriege Geschichte",
+   "Kriege Geschichte Ranking"
+  ],
+  "keywords": [
+   "krieg"
+  ]
+ },
+ {
+  "topic_id": "AH4",
+  "video_id": "XljxcQumyqE",
+  "en_title": "The ENTIRE History of Medieval Europe",
+  "de_title": "Die GESAMTE Geschichte des mittelalterlichen Europas",
+  "queries": [
+   "Die GESAMTE Geschichte des mittelalterlichen Europas",
+   "Das Mittelalter einfach erklärt",
+   "Europa im Mittelalter animiert",
+   "Mittelalter Europa Geschichte",
+   "Mittelalter Doku"
+  ],
+  "keywords": [
+   "mittelalter"
+  ]
+ },
+ {
+  "topic_id": "AH5",
+  "video_id": "mpXFO_9Zim0",
+  "en_title": "300 Years of Afghan History Explained",
+  "de_title": "300 Jahre afghanische Geschichte erklärt",
+  "queries": [
+   "300 Jahre afghanische Geschichte erklärt",
+   "Die Geschichte Afghanistans",
+   "Warum Afghanistan nie erobert wurde",
+   "Geschichte Afghanistan",
+   "Afghanistan Doku"
+  ],
+  "keywords": [
+   "afghan"
+  ]
+ }
+]

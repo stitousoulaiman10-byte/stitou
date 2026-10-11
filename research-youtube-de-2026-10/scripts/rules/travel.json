@@ -1,0 +1,41 @@
+{
+ "TD1": {
+  "core": "(leben|alltag|wohnen|menschen).*alaska|alaska.*(leben|alltag|menschen)",
+  "exclude": "wild |wild$|zyklus|kampf ums|camping|highway|majestät|denali|geschichte alaskas|verwehten|paradiese",
+  "direct_reason": "How/why people live in Alaska (daily life at the edge)",
+  "adjacent_reason": "Alaska wildlife/nature docs, history, road trips",
+  "note": "Geographie mit Geoff 53k ('Warum leben so wenige Menschen in Alaska?'), Mappack DE 76k, David Geo 31k, Matteo Sturm 19k (Sep 2026), Feine Reise 5k (Sep 2026). Since Sep 2026 a swarm of German micro-channels (Ethan Johnson, Fernweh Atlas, Feine Reise, Matteo Sturm) clone this exact 'Leben in X | Wie Menschen am Ende ... leben | 4K' format."
+ },
+ "TD2": {
+  "core": "falkland.*(leben|menschen|alltag|bewohner)|(leben|menschen|bewohner|will jemand).*falkland",
+  "exclude": "krieg|konflikt|seeschlacht|argentinien|briten|referendum|minenfrei|tagesschau|britisch",
+  "direct_reason": "Life on the Falkland Islands",
+  "adjacent_reason": "Falklands War / sovereignty news",
+  "note": "Geographie mit Geoff 223k ('Warum will jemand auf den Falklandinseln leben?', 2025) is a direct, strong incumbent; most other German results are about the 1982 war."
+ },
+ "TD3": {
+  "core": "tasman.*(leben|insel am ende|rand der welt|menschen|alltag)|(leben|menschen).*tasman",
+  "exclude": "tiger|grindwale|roadtrip|weltreise|lohnt|meidet|kiwispotting",
+  "direct_reason": "Life on Tasmania / 'island at the end of the world'",
+  "adjacent_reason": "Travel vlogs, wildlife",
+  "note": "ARTE Fernweh 52k + 18k (Oct 2026), NZZ Format, older reuploads ('Insel am Ende der Welt' 21k)."
+ },
+ "TD4": {
+  "core": "(leben|lebt|alltag|überwintern|tag im leben|zu besuch|so lebt).*(antarktis|neumayer|südpol)|(antarktis|neumayer).*(leben auf|alltag|überwintern|station)",
+  "exclude": "unter dem eis|mysteriös|verbirgt|verbergen|drohne|paralleluniversum|rätsel|geheimn|corona|nicht besuchen",
+  "direct_reason": "What daily life in Antarctica (research stations) is like",
+  "adjacent_reason": "Antarctica mysteries/fringe, under-ice science",
+  "note": "Galileo 852k (Neumayer station), Wissenswert 71k, ZDFheute 54k, Alfred-Wegener-Institut 53k — public/science broadcasters own it.",
+  "force_adjacent": [
+   "q84-n08f7Io",
+   "AKsiw2E9UdU"
+  ]
+ },
+ "TD5": {
+  "core": "(leben|alltag|inselalltag|einheimisch).*(fidschi|fiji)|(fidschi|fiji).*(leben|alltag|inselalltag|neuanfang|sinkend|klimawandel|land unter)",
+  "exclude": "auswander|immobilien|kosten|sekte|china|touristenziel|klischee|blume",
+  "direct_reason": "Life on Fiji / sinking islands",
+  "adjacent_reason": "Emigration vlogs, tourism, geopolitics",
+  "note": "ZDFheute 499k (May 2026, 'Neuanfang am Ende der Welt'), LÄNDERLEBEN 78k (Sep 2026 — a German 'how people live' format), DW Klimawandel 5k."
+ }
+}

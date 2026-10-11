@@ -1,0 +1,46 @@
+{
+ "AO1": {
+  "core": "tromelin|15 jahre.*insel|insel.*15 jahre",
+  "exclude": "$^",
+  "direct_reason": "Tromelin castaways — 15 years stranded",
+  "adjacent_reason": "Island survival challenges/vlogs, other castaway stories",
+  "note": "Der Chronist got 335k with the same story (Aug 2026); plus 3 micro channels."
+ },
+ "AO2": {
+  "core": "henno|hermann korn|geologen|2 jahre.*wüste|zwei jahre.*wüste|wenn es krieg gibt",
+  "exclude": "$^",
+  "direct_reason": "Henno Martin & Hermann Korn hiding 2+ years in the Namib",
+  "adjacent_reason": "Desert survival challenges, Namib nature docs",
+  "note": "Notable gap: the story is German (two German geologists; Henno Martin's book 'Wenn es Krieg gibt, gehen wir in die Wüste') yet no German YouTube retelling surfaced.",
+  "force_adjacent": [
+   "vQURR1rdHGI"
+  ]
+ },
+ "AO3": {
+  "core": "poon|poom|133 tage",
+  "exclude": "$^",
+  "direct_reason": "Poon Lim — 133 days on a raft",
+  "adjacent_reason": "Other at-sea survival stories",
+  "note": "Three micro channels (6-50 views) only."
+ },
+ "AO4": {
+  "core": "okene|3 tage unter wasser|drei tage.*(meeresgrund|unter wasser|wrack)|3 tage.*gesunken|luftblase",
+  "exclude": "euronews|afp",
+  "force_adjacent": [
+   "Kg8t6vsdYog",
+   "Qro49JUrPys",
+   "ALM-5Ze4tU8",
+   "G4TrYUvR4cg"
+  ],
+  "direct_reason": "Harrison Okene — 60 hours in an air pocket in a sunken tug",
+  "adjacent_reason": "2013 news clips of the rescue, other wreck content",
+  "note": "Only 2013 news clips (euronews 95k/77k, AFP 24k) plus two small retellings."
+ },
+ "AO5": {
+  "core": "juana|san nicolas|18 jahre.*insel|insel.*18 jahre",
+  "exclude": "achtzehn inseln",
+  "direct_reason": "Juana Maria — 18 years alone on San Nicolas Island",
+  "adjacent_reason": "Island survival challenges, other castaway stories",
+  "note": "MythenWelt 44k (2022), Schicksalsgeschichten 13k; Die Infografik-Show (German arm of The Infographics Show, multilingual operator)."
+ }
+}

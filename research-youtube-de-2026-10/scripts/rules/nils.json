@@ -1,0 +1,52 @@
+{
+ "NH1": {
+  "core": "alexandria",
+  "exclude": "einschlaf|schlaf|hörbuch|was wäre|talk\\]|keller|assassin|goddio|stadt der|stadt,|kontrollierte|ein tag in|bibliothekar",
+  "force_irrelevant": [
+   "JMV4wr5C2pw"
+  ],
+  "direct_reason": "Documentary/explainer on the Library of Alexandria and what really happened to it",
+  "adjacent_reason": "Sleep-story/audiobook format, what-if alternative history, lectures, or Alexandria-the-city angle",
+  "note": "Only 2 German videos above 10k views (both 2013/2020); the rest are 2025-26 micro channels, one ('Seltsamer als gedacht') copies Nils History's title literally.",
+  "force_adjacent": [
+   "Ecpawjo37gE"
+  ]
+ },
+ "NH2": {
+  "core": "assyr",
+  "exclude": "christen|aramäer|türkei|unterdrückung|persische|perser, sumerer|sumerer, babylonier|verfeindete|einschlaf|frauen",
+  "direct_reason": "History of the Assyrian Empire's rise, brutality and fall",
+  "adjacent_reason": "Modern Assyrian Christians, broader Mesopotamia overviews, Persian successor empire, sleep/lurid angles",
+  "note": "Jenseits der Zeit (German, 2026) got 181k views on an Assyrian deep-dive in Jul 2026 — direct demand signal; Archonox 59k.",
+  "force_adjacent": [
+   "AFigo079vyw"
+  ]
+ },
+ "NH3": {
+  "core": "phöniz|phoeniz|tyros",
+  "exclude": "einschlaf|südamerika|hörspiel",
+  "force_adjacent": [
+   "v6yWUihzl-A",
+   "KZeP3hl6vH8",
+   "GB8wRWjgMeQ",
+   "UHoz2sqdzb4"
+  ],
+  "direct_reason": "Who the Phoenicians were / their rise, trade empire and oddities",
+  "adjacent_reason": "Carthage/Punic Wars focus, sleep stories, fringe (Phoenicians in America)",
+  "note": "MrWissen2go Geschichte (757k) covers Carthage, not Phoenicians per se. Direct Phoenician videos are old reuploads (124k, 2016) or AI channels <8k."
+ },
+ "NH4": {
+  "core": "akkad|sargon",
+  "exclude": "šulgi|podcast|einschlaf",
+  "direct_reason": "Akkadian Empire / Sargon of Akkad as the first superpower",
+  "adjacent_reason": "Sumer/Ur III, podcasts, sleep format",
+  "note": "Jenseits der Zeit 102k (Aug 2026) and a DOKU ÜBER reupload 101k (Jun 2026) show live German interest."
+ },
+ "NH5": {
+  "core": "seevölk|seevolk|1177|(zusammenbruch|kollaps|untergang|apokalypse|katastroph|vernicht|ende der).*bronzezeit|bronzezeit.*(zusammenbruch|kollaps|untergang|apokalypse|katastroph|vernicht|ende)",
+  "exclude": "einschlaf|podcast|kapital|wie alles begann|frühen bronzezeit|krieg und gewalt|krieg in der",
+  "direct_reason": "Sea Peoples / Late Bronze Age collapse",
+  "adjacent_reason": "General Bronze Age life/war, podcasts, sleep format",
+  "note": "Terra X/ZDF documentaries dominate the broader Bronze Age space (228k-3.4M); Jenseits der Zeit 105k (Aug 2026) on the collapse."
+ }
+}

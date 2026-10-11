@@ -1,0 +1,48 @@
+{
+ "GD1": {
+  "core": "suez",
+  "exclude": "leer|israel|usa|krise|bittersee|schiffsfalle|gefangen|verschwörung|ausbauen|neuen kanal",
+  "direct_reason": "History/construction of the Suez Canal",
+  "adjacent_reason": "Current affairs (empty canal, Israeli/US alternative canals), Suez Crisis 1956, ships trapped 1967-75",
+  "note": "German interest in the Suez Canal is driven by current affairs (Mysteriös & Komplex 666k, Clever Camel 637k); the construction-history angle has only Megabauten (123k 'dunkle Wahrheit') plus small channels.",
+  "force_adjacent": [
+   "KMeYup6xtZU"
+  ]
+ },
+ "GD2": {
+  "core": "burj|khalifa",
+  "exclude": "sand importiert|saudi|stewardess|leert|verfällt|100 millionen|toilette|wohnen will|macht|niedergang|wüste|wirklich passiert|zu teuer",
+  "direct_reason": "Engineering/foundation/construction of the Burj Khalifa",
+  "adjacent_reason": "Dubai decline narratives, living costs, sand imports, stunts",
+  "note": "JAES Company Deutsch (198k + 181k) is the German channel of an Italian multilingual engineering-supply company; Megabauten 77k."
+ },
+ "GD3": {
+  "core": "pyramid",
+  "exclude": "tesla|grok|leer|vertuschung|schatzsuche",
+  "force_adjacent": [
+   "mmGBj-GS0Ag",
+   "ZAtAS0U_pUs",
+   "WIvU5uZI-Bk"
+  ],
+  "direct_reason": "How the Egyptian pyramids were actually built",
+  "adjacent_reason": "Fringe/alternative theories (Tesla, AI 'reveals'), cover-up framing, hollow pyramids",
+  "note": "Saturated: Terra X/Lesch 5.5M, Quarks 671k, Mr. Geil 427k, Ridddle DE 582k, MYSTIC GAIA 171k, Jenseits der Zeit 104k (2026)."
+ },
+ "GD4": {
+  "core": "christus|redentor|corcovado",
+  "exclude": "blitz|swiebodzin|świebodzin|polen|pink|angestrahlt|zu fuß|reise|4k|sehenswürdigkeiten|restauriert|schwindelnder",
+  "direct_reason": "How/why Christ the Redeemer was built",
+  "adjacent_reason": "News (lightning, lighting), travel vlogs, other giant statues",
+  "note": "Only one meaningful German construction-history video (Egon Hilgers 47k, 2016). Clear gap with modest demand.",
+  "force_adjacent": [
+   "5NXzkp5tqHg"
+  ]
+ },
+ "GD5": {
+  "core": "mauer",
+  "exclude": "unkommentiert|aufnahmen|'87|´87|kinder|retro",
+  "direct_reason": "History/construction and fall of the Berlin Wall",
+  "adjacent_reason": "Raw archive footage, kids explainers",
+  "note": "German home-turf topic dominated by Terra X, MrWissen2go, DW, zeitzeugen-portal — not a sensible adaptation target."
+ }
+}

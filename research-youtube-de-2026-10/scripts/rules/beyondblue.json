@@ -1,0 +1,41 @@
+{
+ "BB1": {
+  "core": "marianengraben|challenger",
+  "exclude": "müll|plastik|pyramide",
+  "direct_reason": "Why the Mariana Trench is so hard to explore / what's down there",
+  "adjacent_reason": "Pollution news, fringe claims",
+  "note": "Very strong German demand and supply: THE BLUE LAB 666k (Sep 2026), Erdarchiv 415k (May 2026), Wild Nature Science DE 357k + 138k (2026), SONNENSEITE 593k."
+ },
+ "BB2": {
+  "core": "(überleb|wie lange).*(ozean|meer|urzeit|zeitalter)|(ozean|meer|urzeit).*(überleb|wie lange)",
+  "exclude": "entwässern",
+  "direct_reason": "Survival-ranking format: how long you'd last in prehistoric oceans/eras",
+  "adjacent_reason": "Prehistoric marine documentaries without the survival-ranking angle",
+  "note": "Extremwelt published 'Wie lange würdest du in jedem Zeitalter der Urzeit überleben' (119k, 6 Oct 2026) — the format is being localized right now. German copy-channels (Cipher Stories) re-use the exact title within days.",
+  "force_adjacent": [
+   "LSTf_68dwaI",
+   "HDM6EGaJ2IE"
+  ]
+ },
+ "BB3": {
+  "core": "(südpolarmeer|südliche(n)? ozean|antarktische(n)? ozean|unter dem eis der antarktis|unter dem eis in der antarktis|antarktis.*erforsch|erforsch.*antarkt|antarktis: leben unter)",
+  "exclude": "aliens|eisberg|karte|expedition|drohne|höhlen",
+  "direct_reason": "What lives in/under the Southern Ocean and why it is hard to explore",
+  "adjacent_reason": "Antarctica news, expeditions, fringe 'aliens under the ice'",
+  "note": "Ridddle DE 1.76M ('Was ist unter dem Eis in der Antarktis?'), Quarks 369k (2025), El Margo 191k."
+ },
+ "BB4": {
+  "core": "(orca|schwertwal).*(angst|fürchte|feind|flieh|panik|albtraum|terror)|(angst|fürchte|feind|flieh|panik|albtraum).*(orca|schwertwal)|walross.*orca|orca.*walross",
+  "exclude": "boote|spanien|blauwal|töten|ermordend|vs hai|intelligenteste",
+  "direct_reason": "What orcas are afraid of / avoid (walrus, sperm whale, pilot whale)",
+  "adjacent_reason": "Orca attacks/news, orca intelligence, orca vs shark",
+  "note": "Walrus angle itself has no German video, but the 'what orcas fear' angle is covered: Robert Marc Lehmann 792k, Wild Nature Science DE 242k (2026), BEASTERS auf Deutsch 179k (multilingual), EvoMosaik 144k (Jul 2026), THE BLUE LAB 72k+58k (2026)."
+ },
+ "BB5": {
+  "core": "tiefste[nr]? (punkt|ort|stelle)|marianengraben|challenger|tiefsten ozean",
+  "exclude": "müll|plastik|pyramide",
+  "direct_reason": "Everything known about the deepest point on Earth (Challenger Deep)",
+  "adjacent_reason": "Pollution news, fringe",
+  "note": "Kurzgesagt DE 5.7M and Ridddle DE 4.4M own this; plus 2026 entrants Wild Nature Science DE 180k, Schlummerwissen 164k."
+ }
+}

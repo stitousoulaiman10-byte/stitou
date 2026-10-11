@@ -1,0 +1,43 @@
+{
+ "GM1": {
+  "core": "roblox.*(verbot|verboten|gesperrt|bann).*(länder|welt|karte)|(länder|karte|welt).*roblox.*(verbot|verboten|gesperrt)",
+  "exclude": "$^",
+  "direct_reason": "Map/list of countries where Roblox is banned",
+  "adjacent_reason": "Roblox safety/policy news and explainers, gameplay",
+  "note": "No German map-format video found; Roblox policy explainers draw strong views (Was kostet die Welt? 388k Sep 2026, Game Two 280k, Die Spur 196k)."
+ },
+ "GM2": {
+  "core": "youtube.*(verbot|verboten|gesperrt|sperre).*(länder|welt|karte)|(länder|welt|karte).*youtube.*(verbot|gesperrt)",
+  "exclude": "umgehen",
+  "direct_reason": "Map/list of countries where YouTube is banned",
+  "adjacent_reason": "Geo-block workarounds, YouTube policy news",
+  "note": "No German map-format video found; results are 2010-2012 geo-block tutorials and YouTube-policy creators."
+ },
+ "GM3": {
+  "core": "battle royale.*(asien|länder|staaten|erde|grenzen)|(asien|länder).*battle royale",
+  "exclude": "skandalfilm|kosmos|bundesliga|geoguessr",
+  "direct_reason": "Country battle-royale map simulation",
+  "adjacent_reason": "Other battle-royale content",
+  "note": "German mapping niche exists but is small: Krabbe 37k/25k/12k, JAY TEE DE, GlulixGeo (<1k)."
+ },
+ "GM4": {
+  "core": "battle royale.*(europa|länder|staaten)|(europa).*battle royale",
+  "exclude": "$^",
+  "direct_reason": "European country battle-royale map simulation",
+  "adjacent_reason": "Europe border-change maps, EU what-ifs",
+  "note": "Rhababs 150k ('Ich habe Europa in ein Battle Royale in Worldbox', Dec 2025) shows demand; GlulixGeo small."
+ },
+ "GM5": {
+  "core": "(länder|welt|karte).*(lieben|hassen|mögen|freunde|feinde|verbündete).*russland|russland.*(lieben|hassen|freunde und feinde|verbündete)|wer mag russland",
+  "exclude": "china: freundschaft|china und russland",
+  "direct_reason": "World map of which countries like/dislike Russia",
+  "adjacent_reason": "News/geopolitics on Russia",
+  "note": "No German love/hate-map videos; the topic itself is news-heavy (tagesschau, ARTE, WELT). Politically sensitive — the source format relies on loose 'opinion' data.",
+  "force_adjacent": [
+   "2TUQsaqDFxM",
+   "QPMLDeve848",
+   "6YGf_fkucos",
+   "9jif84HBQ4Y"
+  ]
+ }
+}

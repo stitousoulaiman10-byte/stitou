@@ -1,0 +1,47 @@
+{
+ "FO1": {
+  "core": "(mensch|homo sapiens).*(vs|gegen|gewinnt|besiegen|kampf).*(neandertal|menschenart|homo)|(neandertal|menschenart).*(vs|gegen|besiegen|kampf|gewinnt)|wer gewinnt.*neandertal",
+  "exclude": "mma|1live|essen",
+  "direct_reason": "Could a modern human beat other human species in a fight",
+  "adjacent_reason": "Neanderthal/early-human documentaries, MMA 'Neandertaler' nickname",
+  "note": "Only SONNENSEITE (113k, 2019) is direct. Early-human docs perform well in German (Alte Zeiten 45k/39k Aug 2026, Niklas Kolorz 41k Oct 2026)."
+ },
+ "FO2": {
+  "core": "orca.*(urzeit|prähistor|megalodon|mosasaur|livyatan)|(megalodon|mosasaur|livyatan|urzeit).*orca",
+  "exclude": "$^",
+  "direct_reason": "Orcas vs prehistoric ocean predators",
+  "adjacent_reason": "Modern orca behaviour, Megalodon vs Livyatan",
+  "note": "Robert Marc Lehmann 486k ('Megalodon frisst Orca', creator-led) is the only direct hit.",
+  "force_adjacent": [
+   "RkXV3Qk9BeM"
+  ]
+ },
+ "FO3": {
+  "core": "(überleb|wie lange|könntest du).*(raubtier|prädator|urzeit|zeitalter)|(raubtier|prädator).*(überleb|könntest du)",
+  "exclude": "dandymann|als spitzenprädator|als di",
+  "force_irrelevant": [
+   "g7O6JAeeIiY",
+   "iFra7yfPULc"
+  ],
+  "direct_reason": "Survival format vs prehistoric apex predators",
+  "adjacent_reason": "Prehistoric predator documentaries/rankings",
+  "note": "Extremwelt's survival-format video (119k, 6 Oct 2026) is the only direct match; ranking docs exist (Urzeit Welt 66k)."
+ },
+ "FO4": {
+  "core": "(wie lange|überleben würdest|könntest du).*eiszeit|eiszeit.*(kontinent|wie lange)",
+  "exclude": "$^",
+  "direct_reason": "Survival format across Ice Age continents",
+  "adjacent_reason": "Ice Age megafauna/human documentaries",
+  "note": "No direct German video; adjacent Ice Age docs perform (Erdarchiv 178k Dec 2025, Urzeit Geschichte 93k Jun 2026).",
+  "force_adjacent": [
+   "9eHD9qiD2s4"
+  ]
+ },
+ "FO5": {
+  "core": "(wie lange|überleben würdest|könntest du).*(zeitalter|erdzeitalter|urzeit|epoche)",
+  "exclude": "$^",
+  "direct_reason": "Survival-time ranking across prehistoric eras",
+  "adjacent_reason": "Era-by-era documentaries",
+  "note": "Extremwelt localized this exact format on 6 Oct 2026 (119k in 4 days) — proof of German demand, and a first mover."
+ }
+}

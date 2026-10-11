@@ -1,0 +1,22 @@
+{
+"MS1": {"core": "(antarkti).*(dschungel|grün|tropisch|wald|wälder|regenwald|90 millionen|eisfrei|vor .* millionen)|(dschungel|regenwald|grün|eisfrei).*antarkti",
+        "exclude": "nazi|vertrag|russland|byrd|vertuschung|eisberg|wildes",
+        "direct_reason": "Antarctica's ice-free/forested deep past",
+        "adjacent_reason": "Antarctica conspiracies, treaty, wildlife, ice-sheet news",
+        "note": "AusgestorbenerZoo used the exact German title in Apr 2026 (51k); SONNENSEITE 59k; LPIndie, Clixoom ~20k."},
+"MS2": {"core": "supergebirg|uralte(s|n)? gebirge|größer als der himalaya",
+        "exclude": "$^",
+        "direct_reason": "Ancient 'supermountains' (Transgondwanan/Nuna) in Earth history",
+        "adjacent_reason": "Highest mountains today, eight-thousanders, regional mountain docs",
+        "note": "Only three tiny German videos (≤2.1k views); no German incumbent. Demand for mountain content exists (VEIBZ 129k, 'tödlichste Berge' 101k in Aug 2026) but not for this deep-time angle yet."},
+"MS3": {"core": "(2|zwei)[ .]*(mio|millionen).*regen|regen.*(2|zwei)[ .]*(mio|millionen)|pluvial|sintflut der erdgeschichte",
+        "exclude": "$^", "force_irrelevant": ["7d7oNzFnmYk"],
+        "direct_reason": "Carnian Pluvial Episode ('it rained for 2 million years')",
+        "adjacent_reason": "Weather explainers",
+        "note": "Well covered: Erde Äonen 123k (May 2026), SONNENSEITE 78k, Geheimnisse der Antike 16k, Echos der Auslöschung 14k, GeoWelten 11k, Extremwelt 11k."},
+"MS4": {"core": "(urzeit|prähistor|urmeer|urzeitmeer).*(ozean|meer|albtraum|tiefe)|(ozean|meer).*(urzeit|prähistor)|albtraum",
+        "exclude": "australien|nordsee|fünf ozeane|gefährlichsten meere|giganten der tiefsee|wildes",
+        "direct_reason": "Why prehistoric oceans were nightmarish (marine predators through deep time)",
+        "adjacent_reason": "Modern dangerous seas, deep-sea giants today, general dinosaur docs",
+        "note": "Erdarchiv 104k (Dec 2025) and Planet Urzeit 80k (Jul 2026) use near-identical titles; Extinct Primal Deutsch 52k; Modysee 168k."}
+}

@@ -1,0 +1,27 @@
+{
+ "BE1": {
+  "core": "(schwarze[sn]? l(ö|oe)ch).*(nicht geben|nicht existieren|unmöglich|seltsam|sollte|dürfte|rätselhaft|größte)|(unmöglich|seltsamst).*(schwarze)",
+  "exclude": "$^",
+  "direct_reason": "Black holes that 'shouldn't exist' (impossible/extreme black holes)",
+  "adjacent_reason": "General black-hole explainers",
+  "note": "Black holes are one of the most covered German science topics (Kurzgesagt DE 4.8M/4.5M, Terra X Lesch, Ridddle DE); the 'shouldn't exist' compilation angle is thinner.",
+  "force_direct": [
+   "VSVnGJEjV7M",
+   "gkUN96KRpU0"
+  ]
+ },
+ "BE2": {
+  "core": "(100|alle|seltsamsten|größten).*(objekte|himmelskörper)|weltall von a-z|universum.*(erklärt in|in einer stunde)",
+  "exclude": "$^",
+  "direct_reason": "Marathon tour of many space objects",
+  "adjacent_reason": "General universe docs",
+  "note": "Ridddle DE 287k 'Die seltsamsten Objekte im Weltall'; 'Das Weltall von A-Z' reuploads 1-3M."
+ },
+ "BE3": {
+  "core": "(arten|typen|seltsamsten|verschiedene).*(sonnensystem|planetensystem)|(sonnensystem|planetensystem)e.*(arten|typen)",
+  "exclude": "$^",
+  "direct_reason": "Catalogue of exotic solar-system types",
+  "adjacent_reason": "Our own solar system explainers",
+  "note": ""
+ }
+}

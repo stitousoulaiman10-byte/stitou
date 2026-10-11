@@ -1,0 +1,23 @@
+{
+ "NB1": {
+  "core": "stellantis|jeep|opel|fiat|peugeot",
+  "exclude": "$^",
+  "direct_reason": "Stellantis/Jeep/Fiat/Opel crisis explainer",
+  "adjacent_reason": "",
+  "note": "Very crowded and recent: VisualBusiness 588k, INDUSTRIEMAGAZIN 566k, Konzernkino 378k (7 Oct 2026 — copies Nimbus's title 4 days later), PolitSimple 234k, AUFGEBAUT! 221k."
+ },
+ "NB2": {
+  "core": "autoindustrie|autobauer|auto-industrie|automobilkrise|autokrise|autohersteller",
+  "exclude": "$^",
+  "direct_reason": "Why the European/German car industry is in crisis",
+  "adjacent_reason": "",
+  "note": "Top German news/explainer topic: MrWissen2go 604k (May 2026), carwow.de 664k, Herr Anwalt 203k, DER STANDARD 170k, BR24, ARTE, WELT."
+ },
+ "NB3": {
+  "core": "audi",
+  "exclude": "test|fahrbericht|review|probefahrt",
+  "direct_reason": "Audi's business crisis",
+  "adjacent_reason": "Car reviews",
+  "note": ""
+ }
+}

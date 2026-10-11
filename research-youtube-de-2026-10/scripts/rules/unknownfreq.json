@@ -1,0 +1,49 @@
+{
+ "UF1": {
+  "core": "vietnam",
+  "exclude": "journalisten|verräter",
+  "direct_reason": "Overview/explainer of the Vietnam War",
+  "adjacent_reason": "Narrow sub-aspects",
+  "note": "Saturated by SPIEGEL TV (3.3M), MrWissen2go Geschichte (1.3M), MDR, WELT; Muhu Mees 200k (Sep 2026)."
+ },
+ "UF2": {
+  "core": "(besatz|besetzt|occupation|okkupation).*(frankreich|paris)|(frankreich|paris).*(besatz|besetzt)|alltag.*frankreich",
+  "exclude": "$^",
+  "force_irrelevant": [
+   "WOaiAhS1J90"
+  ],
+  "direct_reason": "Everyday life under the German occupation of France",
+  "adjacent_reason": "Fall of France 1940, liberation, collaborators, soldiers' memories",
+  "note": "Few German explainers on civilian daily life under occupation; 5 micro-channels (Geschichte ohne Mythen, Vergessene Front, Vergessene Kriegsgeschichten, Das Archiv des Krieges, Forgotten Frontlines) upload the identical title 'Hunger, Angst und Hoffnung' = likely one operator. Archive footage (FILMSCHATZARCHIV 8.4M) shows latent interest. Sensitive for German audience — careful framing needed.",
+  "force_adjacent": [
+   "qHxkmSiKu4I",
+   "oyY_y_zUH3c"
+  ]
+ },
+ "UF3": {
+  "core": "griechisch|olymp|zeus|götter und helden|griechenland.*(lore|mytho)",
+  "exclude": "nordsee|germanisch|nordisch|römisch|blut und macht|hera und zeus|odyssee",
+  "direct_reason": "Complete overview of Greek mythology",
+  "adjacent_reason": "Other mythologies, single myths, Greek history",
+  "note": "Saturated: MrWissen2go Geschichte 424k, Geschichte und Mythologie 304k/300k/219k, Study History 305k, Muhu Mees 379k."
+ },
+ "UF4": {
+  "core": "kalte|kalter",
+  "exclude": "heißesten momente|nahost|mao|rüstungswahn|bewegung",
+  "direct_reason": "Overview/explainer of the Cold War",
+  "adjacent_reason": "Single episodes/regions of the Cold War",
+  "note": "Saturated: MrWissen2go 982k + 615k, Geo-Geschichte 416k, Muhu Mees 490k, Verklickern 177k."
+ },
+ "UF5": {
+  "core": "achill",
+  "exclude": "ansprache|spielfilm|abenteuer|zorn des kriegers \\|",
+  "force_irrelevant": [
+   "I1iYH79I-n4",
+   "qI1UUsHz8og",
+   "xAg-JC1O5so"
+  ],
+  "direct_reason": "Life story of Achilles",
+  "adjacent_reason": "Trojan War / Iliad overviews, movie clips",
+  "note": "Geschichte und Mythologie owns this (several Achilles videos 22k-60k) plus Deutsche Dokus; Trojan War overviews from Terra X (473k)."
+ }
+}
